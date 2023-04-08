@@ -1,0 +1,29 @@
+{
+  "name": "shop-sense",
+  "version": "1.0.0",
+  "description": "Backend for Shop Ginee",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopgeniee/ShopGeniee_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shopgeniee/ShopGeniee_backend/issues"
+  },
+  "homepage": "https://github.com/shopgeniee/ShopGeniee_backend#readme",
+  "dependencies": {
+    "@prisma/client": "^4.12.0",
+    "express": "^4.18.2",
+    "hi-mom": "^1.2.1",
+    "prisma": "^4.12.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
